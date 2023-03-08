@@ -644,8 +644,8 @@
   ],
   "assets": {
     "CanopyBaseHeight": {
-      "href": "https://storage.googleapis.com/cfo-public/vegetation/California-Vegetation-CanopyBaseHeight-2016-Summer-00010m.tif",
-      "type": "image/tiff; application=geotiff; profile=cloud-optimized"
+      "href": "https://cyberjapandata.gsi.go.jp/xyz/std/2/0/0.png",
+      "type": "image/png"
     }
   },
   "bbox": [
