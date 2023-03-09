@@ -1,0 +1,119 @@
+{
+  "type": "Collection",
+  "id": "8303050039-\u5e73\u4e95\u5ddd",
+  "stac_version": "1.0.0",
+  "description": "\u6cb3\u5ddd\uff7a\uff70\uff84\uff9e-\u6cb3\u5ddd\u540d:8303050039-\u5e73\u4e95\u5ddd",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050039-\u5e73\u4e95\u5ddd-gb03_1300446-gb03_1300458/830305-8303050039-\u5e73\u4e95\u5ddd-gb03_1300446-gb03_1300458.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050039-\u5e73\u4e95\u5ddd-gb03_1300458-gb03_1300477/830305-8303050039-\u5e73\u4e95\u5ddd-gb03_1300458-gb03_1300477.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050039-\u5e73\u4e95\u5ddd-gb03_1300474-gb03_1300501/830305-8303050039-\u5e73\u4e95\u5ddd-gb03_1300474-gb03_1300501.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050039-\u5e73\u4e95\u5ddd-gb03_1300477-gb03_1300474/830305-8303050039-\u5e73\u4e95\u5ddd-gb03_1300477-gb03_1300474.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050039-\u5e73\u4e95\u5ddd-gb03_1300501-gb03_1300529/830305-8303050039-\u5e73\u4e95\u5ddd-gb03_1300501-gb03_1300529.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050039-\u5e73\u4e95\u5ddd-gb03_1300529-gb03_1300546/830305-8303050039-\u5e73\u4e95\u5ddd-gb03_1300529-gb03_1300546.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050039-\u5e73\u4e95\u5ddd-gb03_1300546-gb03_1300559/830305-8303050039-\u5e73\u4e95\u5ddd-gb03_1300546-gb03_1300559.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050039-\u5e73\u4e95\u5ddd-gb03_1300559-gb03_1300639/830305-8303050039-\u5e73\u4e95\u5ddd-gb03_1300559-gb03_1300639.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050039-\u5e73\u4e95\u5ddd-gb03_1300637-gb03_1300641/830305-8303050039-\u5e73\u4e95\u5ddd-gb03_1300637-gb03_1300641.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050039-\u5e73\u4e95\u5ddd-gb03_1300639-gb03_1300637/830305-8303050039-\u5e73\u4e95\u5ddd-gb03_1300639-gb03_1300637.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050039-\u5e73\u4e95\u5ddd-gb03_1300641-gb03_1300648/830305-8303050039-\u5e73\u4e95\u5ddd-gb03_1300641-gb03_1300648.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050039-\u5e73\u4e95\u5ddd-gb03_1300648-gb03_1300657/830305-8303050039-\u5e73\u4e95\u5ddd-gb03_1300648-gb03_1300657.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050039-\u5e73\u4e95\u5ddd-gb03_1300649-gb03_1300652/830305-8303050039-\u5e73\u4e95\u5ddd-gb03_1300649-gb03_1300652.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050039-\u5e73\u4e95\u5ddd-gb03_1300652-gb03_1300671/830305-8303050039-\u5e73\u4e95\u5ddd-gb03_1300652-gb03_1300671.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050039-\u5e73\u4e95\u5ddd-gb03_1300657-gb03_1300649/830305-8303050039-\u5e73\u4e95\u5ddd-gb03_1300657-gb03_1300649.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050039-\u5e73\u4e95\u5ddd-gb03_1300671-gb03_1300695/830305-8303050039-\u5e73\u4e95\u5ddd-gb03_1300671-gb03_1300695.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json"
+    }
+  ],
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          139.18866111,
+          35.72719039,
+          139.32650102,
+          35.77841
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2023-03-09T06:08:01.155220Z",
+          "2023-03-09T06:08:01.155220Z"
+        ]
+      ]
+    }
+  },
+  "license": ""
+}

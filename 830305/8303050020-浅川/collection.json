@@ -1,0 +1,204 @@
+{
+  "type": "Collection",
+  "id": "8303050020-\u6d45\u5ddd",
+  "stac_version": "1.0.0",
+  "description": "\u6cb3\u5ddd\uff7a\uff70\uff84\uff9e-\u6cb3\u5ddd\u540d:8303050020-\u6d45\u5ddd",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050020-\u6d45\u5ddd-gb03_1300881-gb03_1300893/830305-8303050020-\u6d45\u5ddd-gb03_1300881-gb03_1300893.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050020-\u6d45\u5ddd-gb03_1300893-gb03_1300964/830305-8303050020-\u6d45\u5ddd-gb03_1300893-gb03_1300964.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050020-\u6d45\u5ddd-gb03_1300900-gb03_1300881/830305-8303050020-\u6d45\u5ddd-gb03_1300900-gb03_1300881.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050020-\u6d45\u5ddd-gb03_1300956-gb03_1301000/830305-8303050020-\u6d45\u5ddd-gb03_1300956-gb03_1301000.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050020-\u6d45\u5ddd-gb03_1300967-gb03_1300972/830305-8303050020-\u6d45\u5ddd-gb03_1300967-gb03_1300972.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050020-\u6d45\u5ddd-gb03_1300972-gb03_1300956/830305-8303050020-\u6d45\u5ddd-gb03_1300972-gb03_1300956.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050020-\u6d45\u5ddd-gb03_1300986-gb03_1300964/830305-8303050020-\u6d45\u5ddd-gb03_1300986-gb03_1300964.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050020-\u6d45\u5ddd-gb03_1300989-gb03_1300900/830305-8303050020-\u6d45\u5ddd-gb03_1300989-gb03_1300900.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050020-\u6d45\u5ddd-gb03_1300990-gb03_1300996/830305-8303050020-\u6d45\u5ddd-gb03_1300990-gb03_1300996.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050020-\u6d45\u5ddd-gb03_1300992-gb03_1300990/830305-8303050020-\u6d45\u5ddd-gb03_1300992-gb03_1300990.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050020-\u6d45\u5ddd-gb03_1300994-gb03_1300986/830305-8303050020-\u6d45\u5ddd-gb03_1300994-gb03_1300986.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050020-\u6d45\u5ddd-gb03_1300996-gb03_1300967/830305-8303050020-\u6d45\u5ddd-gb03_1300996-gb03_1300967.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050020-\u6d45\u5ddd-gb03_1300997-gb03_1300989/830305-8303050020-\u6d45\u5ddd-gb03_1300997-gb03_1300989.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050020-\u6d45\u5ddd-gb03_1300998-gb03_1300994/830305-8303050020-\u6d45\u5ddd-gb03_1300998-gb03_1300994.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050020-\u6d45\u5ddd-gb03_1301000-gb03_1300997/830305-8303050020-\u6d45\u5ddd-gb03_1301000-gb03_1300997.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050020-\u6d45\u5ddd-gb03_1301007-gb03_1301018/830305-8303050020-\u6d45\u5ddd-gb03_1301007-gb03_1301018.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050020-\u6d45\u5ddd-gb03_1301008-gb03_1300998/830305-8303050020-\u6d45\u5ddd-gb03_1301008-gb03_1300998.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050020-\u6d45\u5ddd-gb03_1301015-gb03_1301007/830305-8303050020-\u6d45\u5ddd-gb03_1301015-gb03_1301007.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050020-\u6d45\u5ddd-gb03_1301018-gb03_1301024/830305-8303050020-\u6d45\u5ddd-gb03_1301018-gb03_1301024.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050020-\u6d45\u5ddd-gb03_1301023-gb03_1301038/830305-8303050020-\u6d45\u5ddd-gb03_1301023-gb03_1301038.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050020-\u6d45\u5ddd-gb03_1301024-gb03_1301023/830305-8303050020-\u6d45\u5ddd-gb03_1301024-gb03_1301023.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050020-\u6d45\u5ddd-gb03_1301028-gb03_1300992/830305-8303050020-\u6d45\u5ddd-gb03_1301028-gb03_1300992.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050020-\u6d45\u5ddd-gb03_1301038-gb03_1301039/830305-8303050020-\u6d45\u5ddd-gb03_1301038-gb03_1301039.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050020-\u6d45\u5ddd-gb03_1301039-gb03_1301050/830305-8303050020-\u6d45\u5ddd-gb03_1301039-gb03_1301050.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050020-\u6d45\u5ddd-gb03_1301050-gb03_1301083/830305-8303050020-\u6d45\u5ddd-gb03_1301050-gb03_1301083.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050020-\u6d45\u5ddd-gb03_1301057-gb03_1301015/830305-8303050020-\u6d45\u5ddd-gb03_1301057-gb03_1301015.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050020-\u6d45\u5ddd-gb03_1301065-gb03_1301057/830305-8303050020-\u6d45\u5ddd-gb03_1301065-gb03_1301057.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050020-\u6d45\u5ddd-gb03_1301083-gb03_1301127/830305-8303050020-\u6d45\u5ddd-gb03_1301083-gb03_1301127.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050020-\u6d45\u5ddd-gb03_1301098-gb03_1301008/830305-8303050020-\u6d45\u5ddd-gb03_1301098-gb03_1301008.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050020-\u6d45\u5ddd-gb03_1301102-gb03_1301098/830305-8303050020-\u6d45\u5ddd-gb03_1301102-gb03_1301098.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050020-\u6d45\u5ddd-gb03_1301127-gb03_1301143/830305-8303050020-\u6d45\u5ddd-gb03_1301127-gb03_1301143.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050020-\u6d45\u5ddd-gb03_1301143-gb03_1301144/830305-8303050020-\u6d45\u5ddd-gb03_1301143-gb03_1301144.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050020-\u6d45\u5ddd-gb03_1301144-gb03_1301102/830305-8303050020-\u6d45\u5ddd-gb03_1301144-gb03_1301102.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json"
+    }
+  ],
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          139.19124341,
+          35.64390285,
+          139.43978697,
+          35.68558417
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2023-03-09T06:08:01.155220Z",
+          "2023-03-09T06:08:01.155220Z"
+        ]
+      ]
+    }
+  },
+  "license": ""
+}

@@ -1,0 +1,124 @@
+{
+  "type": "Collection",
+  "id": "8303050047-\u65e5\u539f\u5ddd",
+  "stac_version": "1.0.0",
+  "description": "\u6cb3\u5ddd\uff7a\uff70\uff84\uff9e-\u6cb3\u5ddd\u540d:8303050047-\u65e5\u539f\u5ddd",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050047-\u65e5\u539f\u5ddd-gb03_1300063-gb03_1300079/830305-8303050047-\u65e5\u539f\u5ddd-gb03_1300063-gb03_1300079.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050047-\u65e5\u539f\u5ddd-gb03_1300076-gb03_1300063/830305-8303050047-\u65e5\u539f\u5ddd-gb03_1300076-gb03_1300063.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050047-\u65e5\u539f\u5ddd-gb03_1300077-gb03_1300078/830305-8303050047-\u65e5\u539f\u5ddd-gb03_1300077-gb03_1300078.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050047-\u65e5\u539f\u5ddd-gb03_1300078-gb03_1300076/830305-8303050047-\u65e5\u539f\u5ddd-gb03_1300078-gb03_1300076.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050047-\u65e5\u539f\u5ddd-gb03_1300079-gb03_1300093/830305-8303050047-\u65e5\u539f\u5ddd-gb03_1300079-gb03_1300093.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050047-\u65e5\u539f\u5ddd-gb03_1300081-gb03_1300077/830305-8303050047-\u65e5\u539f\u5ddd-gb03_1300081-gb03_1300077.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050047-\u65e5\u539f\u5ddd-gb03_1300093-gb03_1300099/830305-8303050047-\u65e5\u539f\u5ddd-gb03_1300093-gb03_1300099.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050047-\u65e5\u539f\u5ddd-gb03_1300097-gb03_1300109/830305-8303050047-\u65e5\u539f\u5ddd-gb03_1300097-gb03_1300109.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050047-\u65e5\u539f\u5ddd-gb03_1300099-gb03_1300097/830305-8303050047-\u65e5\u539f\u5ddd-gb03_1300099-gb03_1300097.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050047-\u65e5\u539f\u5ddd-gb03_1300104-gb03_1300126/830305-8303050047-\u65e5\u539f\u5ddd-gb03_1300104-gb03_1300126.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050047-\u65e5\u539f\u5ddd-gb03_1300109-gb03_1300104/830305-8303050047-\u65e5\u539f\u5ddd-gb03_1300109-gb03_1300104.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050047-\u65e5\u539f\u5ddd-gb03_1300126-gb03_1300140/830305-8303050047-\u65e5\u539f\u5ddd-gb03_1300126-gb03_1300140.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050047-\u65e5\u539f\u5ddd-gb03_1300140-gb03_1300151/830305-8303050047-\u65e5\u539f\u5ddd-gb03_1300140-gb03_1300151.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050047-\u65e5\u539f\u5ddd-gb03_1300151-gb03_1300174/830305-8303050047-\u65e5\u539f\u5ddd-gb03_1300151-gb03_1300174.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050047-\u65e5\u539f\u5ddd-gb03_1300174-gb03_1300181/830305-8303050047-\u65e5\u539f\u5ddd-gb03_1300174-gb03_1300181.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050047-\u65e5\u539f\u5ddd-gb03_1300181-gb03_1300195/830305-8303050047-\u65e5\u539f\u5ddd-gb03_1300181-gb03_1300195.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050047-\u65e5\u539f\u5ddd-gb03_1300195-gb03_1300213/830305-8303050047-\u65e5\u539f\u5ddd-gb03_1300195-gb03_1300213.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json"
+    }
+  ],
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          138.98490833,
+          35.80705639,
+          139.09713444,
+          35.85295222
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2023-03-09T06:08:01.155220Z",
+          "2023-03-09T06:08:01.155220Z"
+        ]
+      ]
+    }
+  },
+  "license": ""
+}

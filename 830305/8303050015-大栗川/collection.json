@@ -1,0 +1,129 @@
+{
+  "type": "Collection",
+  "id": "8303050015-\u5927\u6817\u5ddd",
+  "stac_version": "1.0.0",
+  "description": "\u6cb3\u5ddd\uff7a\uff70\uff84\uff9e-\u6cb3\u5ddd\u540d:8303050015-\u5927\u6817\u5ddd",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050015-\u5927\u6817\u5ddd-gb03_1301122-gb03_1301124/830305-8303050015-\u5927\u6817\u5ddd-gb03_1301122-gb03_1301124.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050015-\u5927\u6817\u5ddd-gb03_1301123-gb03_1301106/830305-8303050015-\u5927\u6817\u5ddd-gb03_1301123-gb03_1301106.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050015-\u5927\u6817\u5ddd-gb03_1301124-gb03_1301131/830305-8303050015-\u5927\u6817\u5ddd-gb03_1301124-gb03_1301131.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050015-\u5927\u6817\u5ddd-gb03_1301126-gb03_1301122/830305-8303050015-\u5927\u6817\u5ddd-gb03_1301126-gb03_1301122.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050015-\u5927\u6817\u5ddd-gb03_1301128-gb03_1301126/830305-8303050015-\u5927\u6817\u5ddd-gb03_1301128-gb03_1301126.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050015-\u5927\u6817\u5ddd-gb03_1301131-gb03_1301123/830305-8303050015-\u5927\u6817\u5ddd-gb03_1301131-gb03_1301123.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050015-\u5927\u6817\u5ddd-gb03_1301137-gb03_1301128/830305-8303050015-\u5927\u6817\u5ddd-gb03_1301137-gb03_1301128.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050015-\u5927\u6817\u5ddd-gb03_1301151-gb03_1301137/830305-8303050015-\u5927\u6817\u5ddd-gb03_1301151-gb03_1301137.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050015-\u5927\u6817\u5ddd-gb03_1301190-gb03_1301151/830305-8303050015-\u5927\u6817\u5ddd-gb03_1301190-gb03_1301151.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050015-\u5927\u6817\u5ddd-gb03_1301196-gb03_1301190/830305-8303050015-\u5927\u6817\u5ddd-gb03_1301196-gb03_1301190.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050015-\u5927\u6817\u5ddd-gb03_1301212-gb03_1301196/830305-8303050015-\u5927\u6817\u5ddd-gb03_1301212-gb03_1301196.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050015-\u5927\u6817\u5ddd-gb03_1301219-gb03_1301221/830305-8303050015-\u5927\u6817\u5ddd-gb03_1301219-gb03_1301221.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050015-\u5927\u6817\u5ddd-gb03_1301221-gb03_1301212/830305-8303050015-\u5927\u6817\u5ddd-gb03_1301221-gb03_1301212.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050015-\u5927\u6817\u5ddd-gb03_1301237-gb03_1301219/830305-8303050015-\u5927\u6817\u5ddd-gb03_1301237-gb03_1301219.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050015-\u5927\u6817\u5ddd-gb03_1301238-gb03_1301237/830305-8303050015-\u5927\u6817\u5ddd-gb03_1301238-gb03_1301237.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050015-\u5927\u6817\u5ddd-gb03_1301262-gb03_1301238/830305-8303050015-\u5927\u6817\u5ddd-gb03_1301262-gb03_1301238.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050015-\u5927\u6817\u5ddd-gb03_1301275-gb03_1301262/830305-8303050015-\u5927\u6817\u5ddd-gb03_1301275-gb03_1301262.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050015-\u5927\u6817\u5ddd-gb03_1301278-gb03_1301275/830305-8303050015-\u5927\u6817\u5ddd-gb03_1301278-gb03_1301275.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json"
+    }
+  ],
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          139.34637882,
+          35.61257588,
+          139.47793066,
+          35.65188864
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2023-03-09T06:08:01.155220Z",
+          "2023-03-09T06:08:01.155220Z"
+        ]
+      ]
+    }
+  },
+  "license": ""
+}

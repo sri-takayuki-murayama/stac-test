@@ -1,0 +1,119 @@
+{
+  "type": "Collection",
+  "id": "8303050036-\u79cb\u5ddd",
+  "stac_version": "1.0.0",
+  "description": "\u6cb3\u5ddd\uff7a\uff70\uff84\uff9e-\u6cb3\u5ddd\u540d:8303050036-\u79cb\u5ddd",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050036-\u79cb\u5ddd-gb03_1300678-gb03_1300689/830305-8303050036-\u79cb\u5ddd-gb03_1300678-gb03_1300689.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050036-\u79cb\u5ddd-gb03_1300680-gb03_1300678/830305-8303050036-\u79cb\u5ddd-gb03_1300680-gb03_1300678.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050036-\u79cb\u5ddd-gb03_1300681-gb03_1300714/830305-8303050036-\u79cb\u5ddd-gb03_1300681-gb03_1300714.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050036-\u79cb\u5ddd-gb03_1300687-gb03_1300702/830305-8303050036-\u79cb\u5ddd-gb03_1300687-gb03_1300702.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050036-\u79cb\u5ddd-gb03_1300688-gb03_1300704/830305-8303050036-\u79cb\u5ddd-gb03_1300688-gb03_1300704.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050036-\u79cb\u5ddd-gb03_1300689-gb03_1300692/830305-8303050036-\u79cb\u5ddd-gb03_1300689-gb03_1300692.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050036-\u79cb\u5ddd-gb03_1300692-gb03_1300681/830305-8303050036-\u79cb\u5ddd-gb03_1300692-gb03_1300681.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050036-\u79cb\u5ddd-gb03_1300702-gb03_1300709/830305-8303050036-\u79cb\u5ddd-gb03_1300702-gb03_1300709.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050036-\u79cb\u5ddd-gb03_1300704-gb03_1300712/830305-8303050036-\u79cb\u5ddd-gb03_1300704-gb03_1300712.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050036-\u79cb\u5ddd-gb03_1300709-gb03_1300680/830305-8303050036-\u79cb\u5ddd-gb03_1300709-gb03_1300680.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050036-\u79cb\u5ddd-gb03_1300712-gb03_1300687/830305-8303050036-\u79cb\u5ddd-gb03_1300712-gb03_1300687.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050036-\u79cb\u5ddd-gb03_1300714-gb03_1300736/830305-8303050036-\u79cb\u5ddd-gb03_1300714-gb03_1300736.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050036-\u79cb\u5ddd-gb03_1300736-gb03_1300737/830305-8303050036-\u79cb\u5ddd-gb03_1300736-gb03_1300737.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050036-\u79cb\u5ddd-gb03_1300737-gb03_1300739/830305-8303050036-\u79cb\u5ddd-gb03_1300737-gb03_1300739.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050036-\u79cb\u5ddd-gb03_1300739-gb03_1300755/830305-8303050036-\u79cb\u5ddd-gb03_1300739-gb03_1300755.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050036-\u79cb\u5ddd-gb03_1300755-gb03_1300760/830305-8303050036-\u79cb\u5ddd-gb03_1300755-gb03_1300760.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json"
+    }
+  ],
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          139.1480975,
+          35.71195583,
+          139.32965229,
+          35.73310333
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2023-03-09T06:08:01.155220Z",
+          "2023-03-09T06:08:01.155220Z"
+        ]
+      ]
+    }
+  },
+  "license": ""
+}

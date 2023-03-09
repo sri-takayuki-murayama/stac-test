@@ -1,0 +1,79 @@
+{
+  "type": "Collection",
+  "id": "8303050005-\u91ce\u5ddd",
+  "stac_version": "1.0.0",
+  "description": "\u6cb3\u5ddd\uff7a\uff70\uff84\uff9e-\u6cb3\u5ddd\u540d:8303050005-\u91ce\u5ddd",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050005-\u91ce\u5ddd-gb03_1300815-gb03_1300982/830305-8303050005-\u91ce\u5ddd-gb03_1300815-gb03_1300982.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050005-\u91ce\u5ddd-gb03_1300982-gb03_1301115/830305-8303050005-\u91ce\u5ddd-gb03_1300982-gb03_1301115.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050005-\u91ce\u5ddd-gb03_1301115-gb03_1301134/830305-8303050005-\u91ce\u5ddd-gb03_1301115-gb03_1301134.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050005-\u91ce\u5ddd-gb03_1301134-gb03_1301192/830305-8303050005-\u91ce\u5ddd-gb03_1301134-gb03_1301192.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050005-\u91ce\u5ddd-gb03_1301192-gb03_1301245/830305-8303050005-\u91ce\u5ddd-gb03_1301192-gb03_1301245.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050005-\u91ce\u5ddd-gb03_1301245-gb03_1301249/830305-8303050005-\u91ce\u5ddd-gb03_1301245-gb03_1301249.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050005-\u91ce\u5ddd-gb03_1301249-gb03_1301279/830305-8303050005-\u91ce\u5ddd-gb03_1301249-gb03_1301279.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050005-\u91ce\u5ddd-gb03_1301279-gb03_1301285/830305-8303050005-\u91ce\u5ddd-gb03_1301279-gb03_1301285.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json"
+    }
+  ],
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          139.47507694,
+          35.60800396,
+          139.62929911,
+          35.70087222
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2023-03-09T06:08:01.155220Z",
+          "2023-03-09T06:08:01.155220Z"
+        ]
+      ]
+    }
+  },
+  "license": ""
+}

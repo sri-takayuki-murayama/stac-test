@@ -1,0 +1,59 @@
+{
+  "type": "Collection",
+  "id": "830306",
+  "stac_version": "1.0.0",
+  "description": "\u6c34\u7cfb\uff7a\uff70\uff84\uff9e:830306",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./8303060000-\u540d\u79f0\u4e0d\u660e/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./8303060001-\u9db4\u898b\u5ddd/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./8303060010-\u6069\u7530\u5ddd/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./8303060016-\u9ebb\u751f\u5ddd/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          139.39743944,
+          35.52085306,
+          139.50218002,
+          35.61173062
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2023-03-09T06:08:01.155220Z",
+          "2023-03-09T06:08:01.155220Z"
+        ]
+      ]
+    }
+  },
+  "license": ""
+}

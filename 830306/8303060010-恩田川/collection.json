@@ -1,0 +1,69 @@
+{
+  "type": "Collection",
+  "id": "8303060010-\u6069\u7530\u5ddd",
+  "stac_version": "1.0.0",
+  "description": "\u6cb3\u5ddd\uff7a\uff70\uff84\uff9e-\u6cb3\u5ddd\u540d:8303060010-\u6069\u7530\u5ddd",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830306-8303060010-\u6069\u7530\u5ddd-gb03_1301370-gb03_1301374/830306-8303060010-\u6069\u7530\u5ddd-gb03_1301370-gb03_1301374.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830306-8303060010-\u6069\u7530\u5ddd-gb03_1301374-gb03_1301377/830306-8303060010-\u6069\u7530\u5ddd-gb03_1301374-gb03_1301377.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830306-8303060010-\u6069\u7530\u5ddd-gb03_1301377-gb03_1301380/830306-8303060010-\u6069\u7530\u5ddd-gb03_1301377-gb03_1301380.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830306-8303060010-\u6069\u7530\u5ddd-gb03_1301380-gb03_1301402/830306-8303060010-\u6069\u7530\u5ddd-gb03_1301380-gb03_1301402.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830306-8303060010-\u6069\u7530\u5ddd-gb03_1301402-gb03_1301409/830306-8303060010-\u6069\u7530\u5ddd-gb03_1301402-gb03_1301409.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830306-8303060010-\u6069\u7530\u5ddd-gb03_1301409-gb03_1301408/830306-8303060010-\u6069\u7530\u5ddd-gb03_1301409-gb03_1301408.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json"
+    }
+  ],
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          139.44375861,
+          35.53585806,
+          139.48449203,
+          35.56821722
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2023-03-09T06:08:01.155220Z",
+          "2023-03-09T06:08:01.155220Z"
+        ]
+      ]
+    }
+  },
+  "license": ""
+}

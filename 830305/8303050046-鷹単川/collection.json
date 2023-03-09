@@ -1,0 +1,59 @@
+{
+  "type": "Collection",
+  "id": "8303050046-\u9df9\u5358\u5ddd",
+  "stac_version": "1.0.0",
+  "description": "\u6cb3\u5ddd\uff7a\uff70\uff84\uff9e-\u6cb3\u5ddd\u540d:8303050046-\u9df9\u5358\u5ddd",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050046-\u9df9\u5358\u5ddd-gb03_1300462-gb03_1300445/830305-8303050046-\u9df9\u5358\u5ddd-gb03_1300462-gb03_1300445.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050046-\u9df9\u5358\u5ddd-gb03_1300491-gb03_1300462/830305-8303050046-\u9df9\u5358\u5ddd-gb03_1300491-gb03_1300462.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050046-\u9df9\u5358\u5ddd-gb03_1300505-gb03_1300491/830305-8303050046-\u9df9\u5358\u5ddd-gb03_1300505-gb03_1300491.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./830305-8303050046-\u9df9\u5358\u5ddd-gb03_1300511-gb03_1300505/830305-8303050046-\u9df9\u5358\u5ddd-gb03_1300511-gb03_1300505.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json"
+    }
+  ],
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          139.25556288,
+          35.76725206,
+          139.28053767,
+          35.7789394
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2023-03-09T06:08:01.155220Z",
+          "2023-03-09T06:08:01.155220Z"
+        ]
+      ]
+    }
+  },
+  "license": ""
+}
