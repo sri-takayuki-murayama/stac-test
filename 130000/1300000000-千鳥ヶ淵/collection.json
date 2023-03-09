@@ -1,0 +1,44 @@
+{
+  "type": "Collection",
+  "id": "1300000000-\u5343\u9ce5\u30f6\u6df5",
+  "stac_version": "1.0.0",
+  "description": "\u6cb3\u5ddd\uff7a\uff70\uff84\uff9e-\u6cb3\u5ddd\u540d:1300000000-\u5343\u9ce5\u30f6\u6df5",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./130000-1300000000-\u5343\u9ce5\u30f6\u6df5-",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json"
+    }
+  ],
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          139.74758944,
+          35.68949722,
+          139.74892972,
+          35.69457
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2023-03-09T05:39:59.907773Z",
+          "2023-03-09T05:39:59.907773Z"
+        ]
+      ]
+    }
+  },
+  "license": ""
+}

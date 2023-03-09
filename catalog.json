@@ -1,0 +1,78 @@
+{
+  "type": "Catalog",
+  "id": "tokyo-river",
+  "stac_version": "1.0.0",
+  "description": "Rivers in Tokyo",
+  "links": [
+    {
+      "rel": "root",
+      "href": "./catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./130000/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./130002/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./130003/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./130004/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./130005/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./130006/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./130007/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./130008/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./140013/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./830303/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./830304/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./830305/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./830306/collection.json",
+      "type": "application/json"
+    }
+  ]
+}
