@@ -1,0 +1,57 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "830303-8303030339-\u4e2d\u5ddd-#gb03_1300826-#gb03_1300839",
+  "properties": {
+    "datetime": "2023-03-09T05:39:59.907773Z"
+  },
+  "geometry": {
+    "type": "MultiLineString",
+    "coordinates": [
+      [
+        [
+          139.8605374,
+          35.69877103
+        ],
+        [
+          139.8606025,
+          35.69833417
+        ],
+        [
+          139.86067778,
+          35.69649972
+        ],
+        [
+          139.8606525,
+          35.69565972
+        ]
+      ]
+    ]
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "collection",
+      "href": "./collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "./collection.json",
+      "type": "application/json"
+    }
+  ],
+  "assets": {},
+  "bbox": [
+    139.8605374,
+    35.69565972,
+    139.86067778,
+    35.69877103
+  ],
+  "stac_extensions": [],
+  "collection": "8303030339-\u4e2d\u5ddd"
+}

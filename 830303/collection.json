@@ -1,0 +1,139 @@
+{
+  "type": "Collection",
+  "id": "830303",
+  "stac_version": "1.0.0",
+  "description": "\u6c34\u7cfb\uff7a\uff70\uff84\uff9e:830303",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./8303030000-\u4e00\u4e4b\u6c5f\u5883\u5ddd/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./8303030000-\u540d\u79f0\u4e0d\u660e/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./8303030000-\u5742\u5ddd/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./8303030000-\u5c0f\u677e\u5ddd/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./8303030000-\u5de6\u8fd1\u5ddd/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./8303030000-\u6771\u652f\u5ddd/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./8303030000-\u9577\u5cf6\u5ddd/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./8303030304-\u6c5f\u6238\u5ddd/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./8303030312-\u6d3e\u5ddd\u5742\u5ddd/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./8303030334-\u65e7\u6c5f\u6238\u5ddd/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./8303030338-\u65b0\u4e2d\u5ddd/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./8303030339-\u4e2d\u5ddd/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./8303030340-\u57b3\u5ddd/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./8303030341-\u5927\u5834\u5ddd/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./8303030351-\u4e8c\u90f7\u534a\u5ddd/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./8303030436-\u7dbe\u702c\u5ddd/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./8303030437-\u82b1\u7551\u5ddd/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./8303030438-\u6bdb\u9577\u5ddd/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./8303030443-\u4f1d\u53f3\u5ddd/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./8303030455-\u65b0\u5ddd/collection.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          139.75557687,
+          35.64437785,
+          139.91890417,
+          35.81627944
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2023-03-09T05:39:59.907773Z",
+          "2023-03-09T05:39:59.907773Z"
+        ]
+      ]
+    }
+  },
+  "license": ""
+}
